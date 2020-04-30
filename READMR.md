@@ -1,2 +1,2 @@
-https://github.com/milagrosche/prueba/blob/master/t3.png
-resultado
+![Aquí la descripción de la imagen por si no carga]
+(https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
